@@ -1,0 +1,2 @@
+# GradleBuildTest
+Gradleビルドのテストプロジェクト
